@@ -4,10 +4,21 @@ function firstToUpperCase(string) {
     : '';
 }
 
+function otraFuncion() {
+  return 'otra Funcion';
+}
+
 function showAlert() {
   alert('Hello world!');
 }
 
 function showAlert2() {
   alert('Hello world 2!');
+}
+function moreFunctions() {
+  alert('yet more functions!');
+}
+
+function showAlert3() {
+  alert('Hello world 3!');
 }
