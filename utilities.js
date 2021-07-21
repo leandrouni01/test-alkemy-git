@@ -7,3 +7,7 @@ function firstToUpperCase(string) {
 function showAlert() {
   alert('Hello world!');
 }
+
+function showAlert2() {
+  alert('Hello world 2!');
+}
