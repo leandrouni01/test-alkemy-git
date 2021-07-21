@@ -10,3 +10,7 @@ function otraFuncion() {
 function showAlert() {
   alert('Hello world!');
 }
+
+function moreFunctions() {
+  alert("yet more functions!");
+}
